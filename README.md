@@ -12,7 +12,7 @@ The intended usage of this script is to generate svg files to output to a pen pl
 Once you have the required packages installed, plot-dots.py is fairly straightforward to use.
 Executing the following will generate a result with the default values:
 
-`python3 plot-dots.py *image.png*` 
+`python3 plot-dots.py image.png` 
 
 Replacing *image.png* with the name of your image. Matplotlib will open up a screen with your output.
 
